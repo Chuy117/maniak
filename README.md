@@ -125,3 +125,5 @@ Por cuestiones de equipo, solo se realizaron pruebas en un dispositivo físico A
 Todos estos pasos son necesarios ya que se desarrolló con el cli de React Native y no con la opción de Expo.
 
 Te puedes ahorrar unos pasos si te diriges dentro de tu ubicación a android\app\build\outputs\apk\debug y hacer solo los pasos del 14-24 para el caso de Android.
+
+*Nota, puede ser poco probable pero en mi caso es necesario desactivar el Firewall para poder conectar el dispositivo con el servidor.
